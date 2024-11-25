@@ -35,8 +35,8 @@ $(document).ready(function(){
             },
             messages: {
                 name: {
-                    required: "come on, you have a name, don't you?",
-                    minlength: "your name must consist of at least 2 characters"
+                    required: "vamos la, você tem um nome, não?",
+                    minlength: "seu nome deve ter no mínimo 2 caracteres"
                 },
                 subject: {
                     required: "come on, you have a subject, don't you?",
